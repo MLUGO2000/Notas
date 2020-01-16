@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="titulo1">Que es Probabilidad</string>
+    <string name="titulo2">Que es Estadistica</string>
+    <string name="titulo3">Que es Probabilidad y Estadistica</string>
+    <string name="titulo4">El Cuarto Titulo</string>
+    <string name="titulo5">El Quinto Titulo</string>
+    <string name="titulo6">El Sexto Titulo</string>
+
+
+
+    <string name="texto1">La probabilidad es una medida de la certidumbre asociada a un suceso o evento futuro y suele expresarse como un número entre 0 y 1 (o entre 0 % y 100 %). </string>
+    <string name="texto2">Ciencia que utiliza conjuntos de datos numéricos para obtener, a partir de ellos, inferencias basadas en el cálculo de probabilidades.</string>
+    <string name="texto3">La Probabilidad y la Estadística se encargan del estudio del azar desde el punto de vista de las matemáticas:
+        /n La Probabilidad propone modelos para los fenómenos aleatorios, es decir, los que se pueden predecir con certeza, y estudia sus consecuencias lógicas.
+    /n La Estadística ofrece métodos y técnicas que permiten entender los datos a partir de modelos. </string>
+</resources>
